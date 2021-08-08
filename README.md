@@ -1,1 +1,2 @@
-# todolist_project
+# Todolist
+# A simple Todo List Manager
